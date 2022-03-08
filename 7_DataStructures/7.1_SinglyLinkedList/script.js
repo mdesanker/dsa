@@ -129,7 +129,6 @@ class SinglyLinkedList {
   }
 }
 
-
 const list = new SinglyLinkedList();
 list.push("HELLO");
 list.push("GOODBYE");
